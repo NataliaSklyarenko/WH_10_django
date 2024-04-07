@@ -1,0 +1,3 @@
+django-admin startproject quote_site
+cd quote_site
+django-admin startapp quotes
